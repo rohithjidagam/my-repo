@@ -1,0 +1,77 @@
+10
+
+dir
+3
+svn://172.16.101.134:7777/sample-rest-jaxb/target
+svn://172.16.101.134:7777
+
+
+
+2012-11-14T07:23:28.961531Z
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+de5c7b92-54f3-4c07-8e04-330492112a58
+
+classes
+dir
+
+generated-sources
+dir
+
+sample-rest-jaxb-1.0-SNAPSHOT.war
+file
+
+
+
+
+2012-11-14T07:23:40.263674Z
+28750aad682c677aa4019b12d2b540d4
+2012-11-14T07:23:28.961531Z
+3
+
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12002477
+
+surefire
+dir
+
+maven-archiver
+dir
+
+sample-rest-jaxb-1.0-SNAPSHOT
+dir
+
