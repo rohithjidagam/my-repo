@@ -28,9 +28,9 @@
 			<version>1.1.0</version>
 		</dependency>
 		<dependency>
-        <groupId>org.scale7</groupId>
-        <artifactId>scale7-pelops</artifactId>
-        <version>1.3-1.1.x</version>
+         <groupId>com.github.stephenc.scale7</groupId>
+ <artifactId>scale7-pelops</artifactId>
+ <version>0.913</version>
     </dependency>
 
 	</dependencies>
